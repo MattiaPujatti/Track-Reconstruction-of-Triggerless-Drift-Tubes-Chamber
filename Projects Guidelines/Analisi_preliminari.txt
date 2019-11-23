@@ -1,0 +1,89 @@
+Analisi preliminari building-time
+
+23-06
+
+Eventi buoni (check zone di aspettazione):
+Total events analized: 18145
+Good events selected: 472
+Percentage of events judged good: 
+Time: 352.750076056
+
+25-06
+
+Eventi buoni (no check sulle zone di aspettazione ma neanche check secondari sui fit locali):
+Total events analized: 18145
+Good events selected: 8991
+Percentage of events judged good: 49.5508404519%
+Time: 666.053088903
+
+Eventi buoni (con check di secondo livello sui fit locali)
+Total events analized: 18145
+Good events selected: 6172
+Percentage of events judged good: 34.0148801323%
+Time: 1297.29366088
+
+27-06
+
+Useful_Stuff (applicando un'analisi triggerless agli eventi selezionati dal 139):
+Total hits detected: 183528
+Number of hits belonging to orbit marked by selected trigger: 59.6982476788%
+Number of events detected using the trigger: 17303
+
+Useful_Stuff (sul trigger 139):
+Total hits detected: 1289024
+Number of hits belonging to orbit marked by selected trigger: 14.2377488705%
+Number of events detected using the trigger: 18725
+Number of hit which show a legit calculated position: 8.49968658458%
+
+Useful_Stuff (triggerless):
+Total hits detected: 1289024
+Number of hits belonging to orbit marked by selected trigger: 8.68447755821%
+Number of events detected using the trigger: 18145
+
+Trigger_efficiency (triggerless, probabilità condizionate con la selezione 3<=hits<=7)
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch1: 50.665941832%
+Good_ch1 | Good_ch0: 63.8574854402%
+Good_ch2 | Good_ch3: 68.6541737649%
+Good_ch3 | Good_ch2: 76.7034640274%
+Time: 60.3936991692
+
+Trigger_efficiency (139, senza rimuovere gli hit senza position)
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch1: 83.7992906322%
+Good_ch1 | Good_ch0: 89.0971606034%
+Good_ch2 | Good_ch3: 87.8564950116%
+Good_ch3 | Good_ch2: 88.4716866247%
+
+
+24-07
+
+Trigger_efficiency (0,estendendo t0_mean a tutti gli hit dell'orbita)
+Total events identified: 16023
+Total hits detected (signal + background): 1289024
+Number of hits belonging to orbit marked by selected trigger: 137660 (10.679397745891466%)
+Number of hits which show a legit calculated position: 137660 (10.679397745891466%)
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch1: 82.44246473645137%
+Good_ch1 | Good_ch0: 89.2326235435918%
+Good_ch2 | Good_ch3: 87.35670562047858%
+Good_ch3 | Good_ch2: 89.19318181818183%
+
+
+Trigger_efficiency (0,con correzione sul metodo dei t0)
+Total events identified: 16137
+Total hits detected (signal + background): 1289024
+Number of hits belonging to orbit marked by selected trigger: 90801 (7.044166749416612%)
+Number of hits which show a legit calculated position: 90801 (7.044166749416612%)
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch1: 45.09177972865124%
+Good_ch1 | Good_ch0: 57.57081719991849%
+Good_ch2 | Good_ch3: 62.69538946538815%
+Good_ch3 | Good_ch2: 69.55698047216555%
+
+
+
+
+
+
+

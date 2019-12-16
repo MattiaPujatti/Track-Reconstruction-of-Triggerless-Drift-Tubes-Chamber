@@ -1,2 +1,5 @@
 Raw data can be found at the following link:
 Data already preprocessed and grouped by events can be found here:
+
+Data from this experiment (and also from similar ones) can be found at the CERN network at: lemma@lxplus.cern.ch
+(if you have the password, because you won't have it from me).

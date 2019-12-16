@@ -1,0 +1,24 @@
+
+
+Total events identified: 272207
+External triggers avaiable: [139]
+Total hits detected (signal + background): 24494976
+Number of hits belonging to orbit marked by selected trigger: 2265046 (9.246981911719367%)
+Number of hits which show a legit calculated position: 2265046 (9.246981911719367%)
+Number of events made by more than 20 hits: 1621 (0.5955026872931262%)
+Number of events made by more than 40 hits: 139 (0.051064079909774546%)
+
+
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch1: 76.41586106595945%
+Good_ch1 | Good_ch0: 87.643398555998%
+Good_ch2 | Good_ch3: 89.44956258166357%
+Good_ch3 | Good_ch2: 86.5972761771448%
+
+
+Conditional probability using neighbour chamber as a tag
+Good_ch0 | Good_ch2: 27.41480829860598%
+Good_ch2 | Good_ch0: 34.91034268473168%
+Good_ch1 | Good_ch3: 30.597396050964708%
+Good_ch3 | Good_ch1: 32.888470641914054%
+

@@ -1,0 +1,16 @@
+Gaussian fit parameters for chamber 0: 
+Mu: -0.17150848212267925
+Sigma: 2.7770514529399404
+Gaussian fit parameters for chamber 1: 
+Mu: -0.10750548363851876
+Sigma: 2.6579064916264614
+Gaussian fit parameters for chamber 2: 
+Mu: -0.01849214927951456
+Sigma: 2.3833306864211017
+Gaussian fit parameters for chamber 3: 
+Mu: -0.08764277714875637
+Sigma: 2.2861442429258765
+Total events analized: 66541
+Good events selected: 8080
+Percentage of events judged good: 12.142889346417999%
+
